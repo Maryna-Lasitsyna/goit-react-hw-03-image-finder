@@ -108,7 +108,7 @@ class App extends Component {
 
     return (
       <AppDiv>
-        <ToastContainer autoClose={2000} transition={Slide} />
+        <ToastContainer autoClose={3000} transition={Slide} />
 
         <SearchBar onSubmit={this.handleSearchSubmit} />
 
