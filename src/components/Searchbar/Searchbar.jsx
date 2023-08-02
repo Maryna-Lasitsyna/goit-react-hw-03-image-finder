@@ -6,7 +6,7 @@ import {
   SearchBtn,
   SearchLabel,
   SearchInput,
-} from './SearchBar.styled';
+} from './Searchbar.styled';
 import { ImSearch } from 'react-icons/im';
 
 class SearchBar extends Component {
